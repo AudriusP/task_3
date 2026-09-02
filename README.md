@@ -18,3 +18,7 @@ Automated test script written with Playwright for the **Nord VPN Pricing Plans P
 ### Playwright (GUI)
 
 - Use command `npx playwright test --ui` - it will open Playwright Test GUI, in which need to choose `pricingPagePlans.spec.ts` to run.
+
+## Example video of a test run
+
+https://github.com/user-attachments/assets/596a26a7-283b-4d31-b439-ee1fe86e3bd7
